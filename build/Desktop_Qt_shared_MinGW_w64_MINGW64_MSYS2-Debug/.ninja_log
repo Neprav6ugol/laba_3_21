@@ -1,0 +1,15 @@
+# ninja log v6
+24	2228	7645524810046186	ar_31_autogen/timestamp	3b6f894451ef88c1
+24	2228	7645524810046186	ar_31_autogen/mocs_compilation.cpp	3b6f894451ef88c1
+24	2228	7645524810046186	C:/Users/Jokir/Documents/ar_31/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_31_autogen/timestamp	3b6f894451ef88c1
+24	2228	7645524810046186	C:/Users/Jokir/Documents/ar_31/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_31_autogen/mocs_compilation.cpp	3b6f894451ef88c1
+2268	2415	7645524812462240	CMakeFiles/ar_31.dir/mainwindow.cpp.obj	158b9dbe9b975885
+2248	6717	7645524812262210	CMakeFiles/ar_31.dir/ar_31_autogen/mocs_compilation.cpp.obj	2020179b45dd0786
+2257	10246	7645524812352226	CMakeFiles/ar_31.dir/main.cpp.obj	736c1b76f1a51e5b
+78	491	7645525047014794	ar_31_autogen/timestamp	3b6f894451ef88c1
+78	491	7645525047014794	ar_31_autogen/mocs_compilation.cpp	3b6f894451ef88c1
+78	491	7645525047014794	C:/Users/Jokir/Documents/ar_31/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_31_autogen/timestamp	3b6f894451ef88c1
+78	491	7645525047014794	C:/Users/Jokir/Documents/ar_31/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_31_autogen/mocs_compilation.cpp	3b6f894451ef88c1
+494	695	7645525049194797	CMakeFiles/ar_31.dir/ar_31_autogen/mocs_compilation.cpp.obj	2020179b45dd0786
+503	9427	7645525049274816	CMakeFiles/ar_31.dir/main.cpp.obj	736c1b76f1a51e5b
+9428	9903	7645525138525023	ar_31.exe	5d8ccc731f3de7b6

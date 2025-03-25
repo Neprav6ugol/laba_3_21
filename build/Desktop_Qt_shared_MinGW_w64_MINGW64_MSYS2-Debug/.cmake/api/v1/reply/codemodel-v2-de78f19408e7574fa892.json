@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-19fc166ef0c6e09985e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ar_31",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ar_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ar_31-Debug-7017bad0b54a6514ef7e.json",
+					"name" : "ar_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ar_31_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ar_31_autogen-Debug-84649ea9cb62897960b0.json",
+					"name" : "ar_31_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ar_31_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ar_31_autogen_timestamp_deps-Debug-43ebf3b1656f05f35726.json",
+					"name" : "ar_31_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Jokir/Documents/ar_31/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug",
+		"source" : "C:/Users/Jokir/Documents/ar_31"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
